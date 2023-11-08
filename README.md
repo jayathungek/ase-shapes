@@ -1,7 +1,10 @@
 # Shapes example
-
+Open a commandline, navigate to your project directory and run the following commands to get started.
+# Installation
+```bash
+pip install -r requirements.txt
+```
 # Running tests
-Open a commandline, navigate to your project directory and type the following:
 
 ```bash
 python -m coverage run test_shapes.py
